@@ -7,7 +7,7 @@ Anyone is welcome! All open-source projects related to NEWARE products are eligi
 
 ## 🏆 What’s the Reward?
 As a token of our gratitude, All contributors will be eligible to receive one of our New portable devices:
-- **CT-8002S-5V100mA-124** (Battery Tester)
+- **CT-8002S-5V100mA-124** (Battery Test Equipment)
   
 
 ## 💡 How to Participate
