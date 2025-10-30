@@ -3,7 +3,7 @@
 We are excited to announce the **NEWARE Developer Reward Program**—an initiative to recognize and reward contributors to open-source projects related to NEWARE products!
 
 ## 🎉 Who Can Participate?
-Anyone is welcome! All open-source projects related to NEWARE products are eligible, including (but not limited to):
+Every user of NEWARE product is eligible to participate!If you are interested in participating, please provide the serial number of the NEWARE product you are using to the official email address[events@neware.net] first.
 
 ## 🏆 What’s the Reward?
 As a token of our gratitude, All contributors will be eligible to receive one of our New portable devices:
