@@ -7,7 +7,7 @@ Every user of NEWARE product is eligible to participate!If you are interested in
 
 ## 🏆 What’s the Reward?
 As a token of our gratitude, All contributors will be eligible to receive one of our New portable devices:
-- **CT-8002S-5V100mA-124** (Battery Test Equipment)
+- **CT-8002S-5V100mA-CV** (Battery Test Equipment)
   
 
 ## 💡 How to Participate
