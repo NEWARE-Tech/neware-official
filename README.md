@@ -24,7 +24,7 @@ We welcome a wide range of projects, including but not limited to:
 - Community documentation, tutorials, and educational resources,simulators, plugins, and more
 
 ## 📅 Program Timeline
-- **Submission Period**: [2025/10/09] — [TBD]
+- **Submission Period**: [2025/10/09] — [2026/10/31]
 
 ## 🙏 Thank You!
 We appreciate your passion, creativity, and contributions to the NEWARE community. Let’s build the future of battery research and lab automation together!
